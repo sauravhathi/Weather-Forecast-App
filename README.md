@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live: https://sauravhathi.github.io/Weather-Forecast-App/
+
+![image](https://user-images.githubusercontent.com/61316762/193289374-3181c6e7-95a6-4acc-aa8b-9f61738a5e45.png)
+
+![image](https://user-images.githubusercontent.com/61316762/193289395-3cd16f01-66cf-47b1-b4a8-50b48b126231.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
